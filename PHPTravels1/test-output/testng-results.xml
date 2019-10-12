@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="58233" started-at="2019-10-12T09:28:20Z" finished-at="2019-10-12T09:29:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="58233" started-at="2019-10-12T09:28:20Z" finished-at="2019-10-12T09:29:18Z">
+      <class name="PHPPack.BaseClass">
+        <test-method status="PASS" signature="LaunchDriverBrowser()[pri:0, instance:PHPPack.BaseClass@79be0360]" name="LaunchDriverBrowser" duration-ms="58161" started-at="2019-10-12T09:28:20Z" finished-at="2019-10-12T09:29:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchDriverBrowser -->
+      </class> <!-- PHPPack.BaseClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
